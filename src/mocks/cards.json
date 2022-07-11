@@ -1,0 +1,79 @@
+[
+    {
+        "id": "c3999d5b-1ab9-4e06-b0f4-89ed4dce4f79",
+        "accountId": "d5d14215-5018-45e2-9c9b-917c19ac879a",
+        "cardNumber": 7059089723819732,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    },
+    {
+        "id": "6d33acba-72e6-4178-a6c1-cac8a5fffbbf",
+        "accountId": "71944d98-9092-4992-a723-87c21ceb32ef",
+        "cardNumber": 8297925473511000,
+        "paymentSystemType": "VISA",
+        "description": "string"
+    },
+    {
+        "id": "b12c95fa-ce22-4c8e-8e34-792f07e3ef6d",
+        "accountId": "b1e00b7b-59d9-40f5-87b0-3301ed0a0d86",
+        "cardNumber": 4220566867187168,
+        "paymentSystemType": "MASTERCARD",
+        "description": "string"
+    },
+    {
+        "id": "c2bab42d-5b47-405e-84d2-f656597c040e",
+        "accountId": "0674a343-1885-4aec-9df3-d8bc17e9854d",
+        "cardNumber": 2783579396458306,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    },
+    {
+        "id": "a867d294-f270-4551-b852-ce695c628eea",
+        "accountId": "f7870de0-a023-4559-8293-2c89c23b5313",
+        "cardNumber": 4492373497339001,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    },
+    {
+        "id": "ea282cb1-d373-46c3-9eb6-00ae8f25a25b",
+        "accountId": "2e6a106b-4b6d-4964-afda-046d8eff6405",
+        "cardNumber": 3480418691314325,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    },
+    {
+        "id": "ba903b75-f049-4a80-85d1-328cde444710",
+        "accountId": "99601e78-fea8-48b2-b121-725c9dd8da65",
+        "cardNumber": 8640384067929213,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    },
+    {
+        "id": "886789b1-96d2-4033-b11f-171604e08304",
+        "accountId": "381c0c4f-a6cf-460d-9742-f0fc581a5a19",
+        "cardNumber": 9506232297995232,
+        "paymentSystemType": "MASTERCARD",
+        "description": "string"
+    },
+    {
+        "id": "6f46696e-f53c-449f-a731-0f2d15ed21b6",
+        "accountId": "ce626924-0bff-4273-87dc-f71c2651f690",
+        "cardNumber": 5666178020590728,
+        "paymentSystemType": "VISA",
+        "description": "string"
+    },
+    {
+        "id": "e1e0658b-a817-48ab-817c-29154825fe1e",
+        "accountId": "8e189a88-2915-46a8-b0ed-6a9b95eccf7a",
+        "cardNumber": 2935109858921401,
+        "paymentSystemType": "MASTERCARD",
+        "description": "string"
+    },
+    {
+        "id": "11e0658b-a817-48ab-817c-29154825fe1e",
+        "accountId": "8e189a88-2915-46a8-b0ed-6a9b95eccf7a",
+        "cardNumber": 2935109858921402,
+        "paymentSystemType": "МИР",
+        "description": "string"
+    }
+]

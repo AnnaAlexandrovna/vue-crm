@@ -1,0 +1,68 @@
+[
+    {
+        "id": "d5d14215-5018-45e2-9c9b-917c19ac879a",
+        "personId": "4366142e-cc97-4ac1-befd-41457f5a90ec",
+        "accountNumber": 82321076544263258688,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "71944d98-9092-4992-a723-87c21ceb32ef",
+        "personId": "c3ba6174-2f11-40dc-b320-9f82e6fe7f9c",
+        "accountNumber": 75695048291229709332,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "b1e00b7b-59d9-40f5-87b0-3301ed0a0d86",
+        "personId": "a7d688c9-1ac3-4e32-9b4d-a3e5715994ea",
+        "accountNumber": 73267579723715371842,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "0674a343-1885-4aec-9df3-d8bc17e9854d",
+        "personId": "4c1e32f4-25a5-4319-9e29-05fd1fc21589",
+        "accountNumber": 27421285572917575040,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "f7870de0-a023-4559-8293-2c89c23b5313",
+        "personId": "8bdd0f82-1d44-4b88-820f-c1d6a0560773",
+        "accountNumber": 60108241988361965659,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "2e6a106b-4b6d-4964-afda-046d8eff6405",
+        "personId": "56a90562-9ba9-4ced-8a8a-1e5ca6ea50a5",
+        "accountNumber": 10119817916049224330,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "99601e78-fea8-48b2-b121-725c9dd8da65",
+        "personId": "9bbe1b76-c4e6-4287-9f77-3c7247c7e4b6",
+        "accountNumber": 27189219407994396956,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "381c0c4f-a6cf-460d-9742-f0fc581a5a19",
+        "personId": "c59a9c34-c12d-4d14-97ee-c9af07b924e8",
+        "accountNumber": 78683623217652223114,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "ce626924-0bff-4273-87dc-f71c2651f690",
+        "personId": "fef2668f-1a26-4ac8-aeb5-da8991815aa2",
+        "accountNumber": 46671829289433132351,
+        "accountCurrency": "RUB"
+    },
+    {
+        "id": "8e189a88-2915-46a8-b0ed-6a9b95eccf7a",
+        "personId": "fef2668f-1a26-4ac8-aeb5-da8991815aa2",
+        "accountNumber": 14699226399510291633,
+        "accountCurrency": "USD"
+    },
+    {
+        "id": "128aed12-7f01-4f37-8cfc-0d9b87c0539e",
+        "personId": "fef2668f-1a26-4ac8-aeb5-da8991815aa2",
+        "accountNumber": 81696893519212459647,
+        "accountCurrency": "EUR"
+    }
+]

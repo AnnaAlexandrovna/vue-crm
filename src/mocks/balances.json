@@ -1,0 +1,46 @@
+[
+    {
+        "accountId": "d5d14215-5018-45e2-9c9b-917c19ac879a",
+        "balance": 12.3
+    },
+    {
+        "accountId": "71944d98-9092-4992-a723-87c21ceb32ef",
+        "balance": 15
+    },
+    {
+        "accountId": "b1e00b7b-59d9-40f5-87b0-3301ed0a0d86",
+        "balance": 123
+    },
+    {
+        "accountId": "0674a343-1885-4aec-9df3-d8bc17e9854d",
+        "balance": 432
+    },
+    {
+        "accountId": "f7870de0-a023-4559-8293-2c89c23b5313",
+        "balance": 1.2
+    },
+    {
+        "accountId": "2e6a106b-4b6d-4964-afda-046d8eff6405",
+        "balance": 1.123
+    },
+    {
+        "accountId": "99601e78-fea8-48b2-b121-725c9dd8da65",
+        "balance": 123124
+    },
+    {
+        "accountId": "381c0c4f-a6cf-460d-9742-f0fc581a5a19",
+        "balance": 123
+    },
+    {
+        "accountId": "ce626924-0bff-4273-87dc-f71c2651f690",
+        "balance": 1111
+    },
+    {
+        "accountId": "8e189a88-2915-46a8-b0ed-6a9b95eccf7a",
+        "balance": 789
+    },
+    {
+        "accountId": "128aed12-7f01-4f37-8cfc-0d9b87c0539e",
+        "balance": 785.6
+    }
+]
